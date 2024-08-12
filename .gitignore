@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+
+# IntelliJ IDEA
+.idea/
+
+# Allure results
+allure-results/
+
+# Environment variables
+.env
+
+# Build files
+build.gradle
+gradlew
+gradlew.bat
+
+# APK files
+*.apk
+
+# Other files
+README.MD
+
+.DS_Store
