@@ -19,7 +19,4 @@ gradlew.bat
 # APK files
 *.apk
 
-# Other files
-README.MD
-
 .DS_Store
